@@ -24,6 +24,7 @@ def wadsworth_constant(phrase=None):
     index = int(round(len(phrase) * .3))
     first_word = phrase.find(' ', index) + 1
     wadsworth_value = phrase[first_word:]
+    wadsworth_value = wadsworth_value[0].upper() + wadsworth_value[1:]
     return wadsworth_value
 
 
