@@ -2,7 +2,7 @@ Wadsworth Constant
 ==================
 
 Since the first 30% of this `README` is useless, you should probably
-just skip to the **Usage** section.
+just skip to the **Installation** and **Usage** sections.
 
 
 Installation
